@@ -4,7 +4,7 @@
 **Tools:** MySQL and Excel
 
 **Data**
-The data is available in the table [`products.csv`](mynameisfho/My-Data-Analyst-Portofolio/Grocery Store Sales - YesFood/products.csv)
+The data is available in the table ['products.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Grocery%20Store%20Sales%20-%20YesFood/products.csv)
 The dataset contains records of customers for their last full year (2022) of the loyalty program.
 
 | Column Name | Criteria                                                |
@@ -32,4 +32,4 @@ The dataset contains records of customers for their last full year (2022) of the
     - Fields : 3
     - Records : 698
 
-**Code:** [`Grocery Store Sales : YesFood.sql`](mynameisfho/My-Data-Analyst-Portofolio/Grocery Store Sales - YesFood/grocery_store_sales_sql_scripts.sql)
+**Code:** ['Grocery Store Sales : YesFood.sql'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Grocery%20Store%20Sales%20-%20YesFood/grocery_store_sales_sql_scripts.sql)
