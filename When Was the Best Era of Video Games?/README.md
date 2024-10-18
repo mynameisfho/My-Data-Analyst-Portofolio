@@ -1,3 +1,5 @@
+![image](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/When%20Was%20the%20Best%20Era%20of%20Video%20Games%3F/video_games.jpg)
+
 ### Video games are a big industry, 
 with the global gaming market expected to surpass $300 billion by 2027, according to Mordor Intelligence. With such high stakes, major game publishers are heavily motivated to produce the next blockbuster hit. But are video games truly improving, or has the best era of gaming already come and gone?
 
