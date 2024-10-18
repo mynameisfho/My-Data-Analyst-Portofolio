@@ -1,9 +1,9 @@
--- Table 1. Last year (2022) there was a bug in the product system. For some products that were added in that year, the `year_added` value was not set in the data. As the year the product was added may have an impact on the price of the product, this is important information to have. Here's the code to determine how many products have the `year_added` value missing.
+-- Table 1. During 2022, a bug in the product system caused the `year_added` value to be missing for some products introduced that year. Since the year a product was added could affect its price, having this information is crucial. The table identifies how many products have a missing `year_added` value.
 SELECT COUNT(*) AS missing_year
 FROM products
 WHERE year_added IS NULL;
 
--- Table 2. This query cleans the missing values
+-- Table 2. Clean the missing values
 SELECT
 	product_id,
 	product_type,
@@ -25,7 +25,7 @@ SELECT
 FROM 
     products;
 
--- Table 3. To find out how the range varies for each product type, this query determines the minimum and maximum values for each product type.
+-- Table 3. To analyze price variations, this query identifies the minimum and maximum prices for each product category.
 SELECT 
     product_type, 
     MIN(price) AS min_price, 
@@ -35,7 +35,7 @@ FROM
 GROUP BY 
     product_type;
 
--- Table 4. Here, to look in more detail at meat and dairy products where the average units sold was greater than ten.
+-- Table 4. Additionally, the table focuses on meat and dairy products where the average units sold exceeded ten, allowing for a more detailed analysis.
 SELECT 
     product_id, 
     price, 

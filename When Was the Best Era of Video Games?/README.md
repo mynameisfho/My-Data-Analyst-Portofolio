@@ -1,10 +1,11 @@
-Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027 according to Mordor Intelligence. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?
+### Video games are a big industry, 
+with the global gaming market expected to surpass $300 billion by 2027, according to Mordor Intelligence. With such high stakes, major game publishers are heavily motivated to produce the next blockbuster hit. But are video games truly improving, or has the best era of gaming already come and gone?
 
-In this project, you'll analyze video game critic and user scores as well as sales data for the top 400 video games released since 1977. You'll search for a golden age of video games by identifying release years that users and critics liked best, and you'll explore the business side of gaming by looking at game sales data.
+In this project, we analyze critics and user scores, along with sales data, for the top 400 video games released since 1977. The goal is to determine if there was a "best era" of gaming by identifying the release years that were most favored by users and critics. Additionally, we investigate into the business side by examining sales data for these games.
 
-Your search will involve joining datasets and comparing results with set theory. You'll also filter, group, and order data. Make sure you brush up on these skills before trying this project! The database contains two tables. Each table has been limited to 400 rows for this project, but you can find the complete dataset with over 13,000 games on Kaggle.
+The analysis will require joining datasets and applying set theory comparisons. The database contains two tables, each limited to 400 rows for this project.
 
-### `game_sales` table
+### `games_sales` table
 
 | Column | Definition | Data Type |
 |-|-|-|  
@@ -15,7 +16,7 @@ Your search will involve joining datasets and comparing results with set theory.
 |games_sold|Number of copies sold (millions)|`float`|
 |year|Release year|`int`|
 
-### `reviews` table
+### `games_reviews` table
 
 | Column | Definition | Data Type |
 |-|-|-|
@@ -24,7 +25,7 @@ Your search will involve joining datasets and comparing results with set theory.
 |user_score|User score according to Metacritic|`float`|
 
 
-### `users_avg_year_rating` table
+### `users_avg_rating_by_year` table
 
 | Column | Definition | Data Type |
 |-|-|-|
@@ -32,11 +33,10 @@ Your search will involve joining datasets and comparing results with set theory.
 |num_games| Number of games released that year |`int`|
 |avg_user_score| Average score of all the games ratings for the year |`float`|
 
-### `critics_avg_year_rating` table
+### `critics_avg_rating_by_year` table
 
 | Column | Definition | Data Type |
 |-|-|-|
 |year| Release year of the games reviewed |`int`|  
 |num_games| Number of games released that year |`int`|
 |avg_critic_score| Average score of all the games ratings for the year |`float`|
-
