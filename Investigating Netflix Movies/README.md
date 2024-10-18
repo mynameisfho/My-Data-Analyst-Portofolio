@@ -1,4 +1,5 @@
-mynameisfho/My-Data-Analyst-Portofolio/Investigating Netflix Movies/Netflix-Logo.jpg
+![image](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Investigating%20Netflix%20Movies/Netflix-Logo.jpg)
+
 ## Netflix 
 which began in 1997 as a DVD rental service, has grown into one of the world's largest entertainment and media companies.
 
