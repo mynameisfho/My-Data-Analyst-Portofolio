@@ -1,13 +1,15 @@
 ![image](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Predicting%20Outcomes%20of%20Car%20Insurance%20Claims/car_insurance.jpg)
 
-### Insurance companies
-invest significant time and resources into optimizing their pricing strategies and accurately predicting the likelihood of customers filing claims. In many countries, car insurance is legally required to drive on public roads, making the market quite large.
+### Description:
+**Insurance companies** invest significant time and resources into optimizing their pricing strategies and accurately predicting the likelihood of customers filing claims. In many countries, car insurance is legally required to drive on public roads, making the market quite large.
 
 With this in mind, On the Road car insurance has sought in building a model to predict whether a customer will file a claim during their policy period. Since they have limited expertise and infrastructure for deploying and managing machine learning models, they've asked to identify the single most important feature that leads to the best model performance, based on accuracy, so they can start with a simple model in production.
 
-The customer data is provided in a CSV file named `car_insurance.csv`, along with a table that details the column names and descriptions.
+### Tools: 
+Python and Excel
 
-## The dataset
+### Data:
+The customer data is provided in a CSV file named [`car_insurance.csv`](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Predicting%20Outcomes%20of%20Car%20Insurance%20Claims/car_insurance.csv), along with a table that details the column names and descriptions.
 
 | Column | Description |
 |--------|-------------|
@@ -29,3 +31,9 @@ The customer data is provided in a CSV file named `car_insurance.csv`, along wit
 | `duis` | Number of times the client has been caught driving under the influence of alcohol |
 | `past_accidents` | Total number of previous accidents the client has been involved in |
 | `outcome` | Whether the client made a claim on their car insurance (response variable): <br><ul><li>`0`: No claim</li><li>`1`: Made a claim</li></ul> |
+
+### Data Outputs: 
+Determine the one feature in the data that best predicts whether a customer will file a claim (indicated by the `outcome` column), excluding the `id` column. Name the result as a DataFrame named `best_feature_df`, which should include two columns: `best_feature` for the name of the top-performing feature and `best_accuracy` for its corresponding accuracy score.
+
+### Code:
+[Predicting Outcomes of Car Insurance Claims](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Predicting%20Outcomes%20of%20Car%20Insurance%20Claims/car_insurance.ipynb)

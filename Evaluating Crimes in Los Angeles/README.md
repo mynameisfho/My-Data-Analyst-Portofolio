@@ -1,19 +1,18 @@
 ![image](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Evaluating%20Crimes%20in%20Los%20Angeles/los_angeles.jpg)
 
 ## Los Angeles, California. 
-#### The City of Angels. Tinseltown. The Entertainment Capital of the World! 
+### The City of Angels. Tinseltown. The Entertainment Capital of the World! 
 
+### Description: 
 Famous for its warm climate, palm trees, extensive coastline, and Hollywood, Los Angeles has produced some of the most iconic films and songs. However, like any densely populated city, it has its share of challenges, including a significant amount of crime. That's where your expertise comes in!
 
 This project analyzes crime data to uncover patterns in criminal behavior, and to allocate resources more effectively to address various crimes in different neighborhoods.
 
-## The Data
+### Tools: 
+Python and Excel
 
-Dataset is provided with a single dataset for analysis. A summary and preview of the dataset are included below.
-
-This dataset is a modified version of the original data, which is publicly available from Los Angeles Open Data.
-
-## crimes.csv
+### Data:
+Dataset is provided with a single dataset for analysis, ['crimes.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Evaluating%20Crimes%20in%20Los%20Angeles/crimes.csv). A summary and preview of the dataset are included below. This dataset is a modified version of the original data, which is publicly available from Los Angeles Open Data.
 
 | Column     | Description              |
 |------------|--------------------------|
@@ -29,3 +28,12 @@ This dataset is a modified version of the original data, which is publicly avail
 | `'Weapon Desc'` | Description of the weapon used (if applicable). |
 | `'Status Desc'` | Crime status. |
 | `'LOCATION'` | Street address of the crime. |
+
+### Data Outputs:
+Analyze the `crimes.csv` dataset to answer the following questions:
+- Which hour records the highest number of crimes? Save the result as an integer variable named `peak_crime_hour`.
+- Which area has the highest frequency of crimes occurring at night (between 10 PM and 3:59 AM)? Save this as a string variable named `peak_night_crime_location`.
+- Determine the number of crimes committed against victims in different age groups. Save this as a pandas Series named `victim_ages`, with the following age group labels as the index: `0-17`, `18-25`, `26-34`, `35-44`, `45-54`, `55-64`, and `65+`, and the corresponding frequency of crimes as the values.
+
+### Code:
+[Evaluatin Crimes in LA](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Evaluating%20Crimes%20in%20Los%20Angeles/evaluating_crimes_in_la.ipynb)

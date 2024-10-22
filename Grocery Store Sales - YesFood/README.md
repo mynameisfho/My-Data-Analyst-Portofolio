@@ -1,10 +1,13 @@
 # Grocery Store Sales - YesFood
-**Description:** YesFood is a grocery store offering a variety of items, including produce, meat, dairy, baked goods, snacks, and other essential household foods. As food prices increase, YesFood aims to ensure they stock products across all categories that cater to a wide range of price points, making sure they have options for all types of customers.
 
-**Tools:** MySQL and Excel
+### Description: 
+YesFood is a grocery store offering a variety of items, including produce, meat, dairy, baked goods, snacks, and other essential household foods. As food prices increase, YesFood aims to ensure they stock products across all categories that cater to a wide range of price points, making sure they have options for all types of customers.
 
-**Data**
-The data is available in the table ['products.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Grocery%20Store%20Sales%20-%20YesFood/products.csv)
+### Tools: 
+SQL and Excel
+
+### Data:
+The data is available in the table ['products.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Grocery%20Store%20Sales%20-%20YesFood/products.csv).
 The dataset includes records of customer purchases from the last full year (2022) of the loyalty program.
 
 | Column Name | Criteria                                                |
@@ -18,7 +21,7 @@ The dataset includes records of customer purchases from the last full year (2022
 | year_added | Nominal. The year the product was first added to FoodYum stock.</br>Missing values should be replaced with 2022. |
 | stock_location | Nominal. The location that stock originates. This can be one of four warehouse locations, A, B, C or D </br>Missing values should be replaced with “Unknown”. |
 
-**Outputs:**
+### Data Outputs:
 - Table 1. During 2022, a bug in the product system caused the `year_added` value to be missing for some products introduced that year. Since the year a product was added could affect its price, having this information is crucial. The table identifies how many products have a missing `year_added` value.
     - Fields : 1
     - Records : 1
@@ -32,4 +35,5 @@ The dataset includes records of customer purchases from the last full year (2022
     - Fields : 3
     - Records : 698
 
-**Code:** ['Grocery Store Sales : YesFood.sql'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Grocery%20Store%20Sales%20-%20YesFood/grocery_store_sales_sql_scripts.sql)
+### Code:
+[Grocery Store Sales : YesFood](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Grocery%20Store%20Sales%20-%20YesFood/grocery_store_sales_sql_scripts.sql)

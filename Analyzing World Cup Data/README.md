@@ -1,10 +1,15 @@
-### Content
+![image](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/World%20Cup.jpg)
+
+### Description:
 This dataset contains **44,066** results of international football matches, starting from the first official match in 1972 up to 2019. The matches include everything from the FIFA World Cup and FIFI Wild Cup to regular friendly matches. It only covers men's full internationals and excludes Olympic Games or matches involving B-teams, U-23 teams, or league select teams.
 
+### Tools: 
+Python and Excel
 
+### Data:
+These of data are available: ['results.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/results.csv); ['shootouts.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/shootouts.csv); and ['winners.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/winners.csv).
 
 The `results.csv` includes the following columns:
-
 -   `date` - the date of the match
 -   `home_team` - the name of the home team
 -   `away_team` - the name of the away team
@@ -16,7 +21,6 @@ The `results.csv` includes the following columns:
 -   `neutral` - TRUE/FALSE column indicating whether the match was held at a neutral venue
 
 `shootouts.csv` includes the following columns:
-
 -   `date` - the date of the match
 -   `home_team` - the name of the home team
 -   `away_team` - the name of the away team
@@ -26,14 +30,11 @@ Note on Team and Country Names: For the home and away teams, the *current* name 
 
 For country names, the name used is that of the country *at the time of the match*. Thus, when Ghana played in Accra as Gold Coast in the 1950s, it is still noted as a home match for Ghana, even if the names differ. The neutral column indicates FALSE for these matches, signifying that they were **not** held at a neutral venue.
 
-### Acknowledgements
-
+#### Acknowledgements:
 The data has been compiled from various sources, including Wikipedia, rsssf.com, and the websites of individual football associations.
 
-### Inspiration
-
-Here are some ideas for exploring the data:
-
+### Data Outputs:
+Here are some ouputs for exploring the data:
 - Who is the greatest football team of all time?
 - Which teams dominated different eras in football history?
 - What trends have emerged in international football over the years, such as home advantage, total goals scored, and team strength distribution?
@@ -42,5 +43,5 @@ Here are some ideas for exploring the data:
 - How does hosting a major tournament affect a country's chances in that tournament?
 - Which teams frequently play friendlies and friendly tournaments, and does this benefit or hinder them?
 
-### Contribute
-If you spot any errors or feel the results aren't updated frequently enough, you can contribute by submitting a pull request.
+### Code:
+[Analyzing World Cup Data](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/world_cup_data.ipynb)
