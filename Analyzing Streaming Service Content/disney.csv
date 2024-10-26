@@ -1,0 +1,785 @@
+"id","title","year","age","imdb","rotten_tomatoes","type"
+4132,"The Kid",2019,"18+",null,"62/100",0
+3959,"Diary of a Wimpy Kid",2010,"7+",null,"67/100",0
+4204,"Teen Spirit",2019,"13+",null,"60/100",0
+4187,"The Hunchback of Notre Dame",1923,null,null,"60/100",0
+4864,"Pinocchio",2019,"13+",null,"72/100",0
+4513,"The Flood",2019,null,null,"50/100",0
+2171,"For the Birds",2018,null,null,"50/100",0
+7654,"The Swap",1979,"18+",null,"42/100",0
+9156,"The Strongest Man in the World",1975,"all",null,"54/100",0
+9157,"Elephant",2020,"all",null,"54/100",0
+9158,"The Mistle-Tones",2012,"7+",null,"54/100",0
+9159,"Greyfriars Bobby: The True Story of a Dog",1961,"7+",null,"54/100",0
+9160,"College Road Trip",2008,"all",null,"54/100",0
+9162,"A Kid in King Arthur's Court",1995,"7+",null,"53/100",0
+9155,"The Computer Wore Tennis Shoes",1969,"all",null,"54/100",0
+9163,"Apollo: Missions to the Moon",2019,null,null,"53/100",0
+9165,"The Proud Family Movie",2005,"all",null,"53/100",0
+9166,"The Living Desert",1953,"all",null,"53/100",0
+9167,"The Legend of Mor'du",2012,"all",null,"53/100",0
+9168,"Iron Man & Captain America: Heroes United",2014,"7+",null,"53/100",0
+9170,"Chip an' Dale",1947,null,null,"53/100",0
+9171,"The Little Mermaid Live!",2019,"7+",null,"53/100",0
+9164,"Winnie the Pooh: A Very Merry Pooh Year",2002,"all",null,"53/100",0
+9154,"Titanic: 20 Years Later with James Cameron",2017,"7+",null,"54/100",0
+9153,"The Shaggy D.A.",1976,"all",null,"54/100",0
+9152,"Go Figure",2005,"all",null,"54/100",0
+9134,"Ferdinand the Bull",1938,null,null,"54/100",0
+9135,"Santa's Workshop",1932,null,null,"54/100",0
+9136,"The Suite Life Movie",2011,"all",null,"54/100",0
+9138,"How to Build a Better Boy",2014,"all",null,"54/100",0
+9139,"Clock Cleaners",1937,null,null,"54/100",0
+9140,"Lambert the Sheepish Lion",1952,null,null,"54/100",0
+9141,"Zenon: The Zequel",2001,"all",null,"54/100",0
+9142,"The Apple Dumpling Gang Rides Again",1979,"all",null,"54/100",0
+9143,"Pluto's Christmas Tree",1952,null,null,"54/100",0
+9145,"Snowball Express",1972,"all",null,"54/100",0
+9146,"Herbie Goes Bananas",1980,"all",null,"54/100",0
+9147,"Pixel Perfect",2004,"all",null,"54/100",0
+9148,"Sharpay's Fabulous Adventure",2011,"all",null,"54/100",0
+9149,"The Cheetah Girls: One World",2008,"all",null,"54/100",0
+9151,"The Brave Little Toaster to the Rescue",1997,"all",null,"54/100",0
+9172,"The Cheetah Girls 2",2006,"all",null,"53/100",0
+9173,"Davy Crockett and the River Pirates",1956,"all",null,"53/100",0
+9180,"Alley Cats Strike",2000,"all",null,"53/100",0
+9181,"The Million Dollar Duck",1971,"all",null,"53/100",0
+9211,"That Darn Cat",1997,"7+",null,"52/100",0
+9212,"The Sandlot: Heading Home",2007,"7+",null,"51/100",0
+9214,"Gus",1976,"all",null,"51/100",0
+9215,"Lamp Life",2020,null,null,"51/100",0
+9216,"The Hockey Champ",1939,null,null,"51/100",0
+9217,"Doug's 1st Movie",1999,"all",null,"51/100",0
+9218,"On Ice",1935,null,null,"51/100",0
+9219,"Three Days",2001,"all",null,"51/100",0
+9220,"Boat Builders",1938,null,null,"51/100",0
+9221,"A Knight for a Day",1946,null,null,"51/100",0
+9223,"Ruby Bridges",1998,"7+",null,"51/100",0
+9225,"The Scream Team",2002,"7+",null,"51/100",0
+9226,"Elmer Elephant",1936,"all",null,"51/100",0
+9227,"Gotta Kick It Up!",2002,"all",null,"51/100",0
+9228,"The Country Bears",2002,"all",null,"51/100",0
+9209,"Right on Track",2003,"all",null,"52/100",0
+9133,"MARS: Inside SpaceX",2018,"7+",null,"54/100",0
+9208,"Tarzan & Jane",2002,"all",null,"52/100",0
+9202,"How to Fish",1942,null,null,"52/100",0
+9182,"Mr. Duck Steps Out",1940,"all",null,"52/100",0
+9183,"Mr. Boogedy",1986,"all",null,"52/100",0
+9184,"The Crimson Wing: Mystery of the Flamingos",2008,"all",null,"52/100",0
+9185,"Snowglobe",2007,"7+",null,"52/100",0
+9186,"Science Fair",2018,"7+",null,"52/100",0
+9187,"The Art of Skiing",1941,null,null,"52/100",0
+9188,"The Big Bad Wolf",1934,null,null,"52/100",0
+9189,"Going to the Mat",2004,"all",null,"52/100",0
+9191,"Quints",2000,"all",null,"52/100",0
+9194,"How to Play Baseball",1942,null,null,"52/100",0
+9195,"The Brave Little Toaster Goes to Mars",1998,"all",null,"52/100",0
+9196,"All in a Nutshell",1949,null,null,"52/100",0
+9198,"Hatching Pete",2009,"all",null,"52/100",0
+9200,"Chef Donald",1941,null,null,"52/100",0
+9201,"Tiger Cruise",2005,"7+",null,"52/100",0
+9204,"Amy",1981,"all",null,"52/100",0
+9229,"Miracle in Lane 2",2000,"all",null,"51/100",0
+9132,"Benji the Hunted",1987,"all",null,"55/100",0
+9130,"Double Teamed",2002,"all",null,"55/100",0
+9054,"Smart House",1999,"all",null,"58/100",0
+9055,"The Shaggy Dog",1959,"all",null,"58/100",0
+9056,"Purl",2019,"7+",null,"58/100",0
+9058,"The Adventures of Huck Finn",1993,"7+",null,"58/100",0
+9060,"Confessions of a Teenage Drama Queen",2004,"7+",null,"58/100",0
+9061,"Tom and Huck",1995,"7+",null,"58/100",0
+9053,"Invisible Sister",2015,"all",null,"58/100",0
+9062,"The Jungle Book 2",2003,"all",null,"58/100",0
+9066,"The Incredible Journey",1963,"all",null,"57/100",0
+9067,"Deep Blue",2003,"all",null,"57/100",0
+9068,"Prom",2011,"7+",null,"57/100",0
+9069,"Phineas and Ferb: Mission Marvel",2013,"all",null,"57/100",0
+9070,"The Prince and the Pauper",1990,"all",null,"57/100",0
+9072,"Bad Hair Day",2015,"all",null,"57/100",0
+9065,"The Fox and the Hound 2",2006,"all",null,"57/100",0
+9051,"Brink!",1998,"all",null,"58/100",0
+9049,"Candleshoe",1977,"7+",null,"58/100",0
+9048,"Return to Halloweentown",2006,"all",null,"58/100",0
+9031,"Ice Age: The Great Egg-Scapade",2016,"7+",null,"59/100",0
+9032,"Chimpanzee",2012,"all",null,"59/100",0
+9033,"The Apple Dumpling Gang",1975,"all",null,"59/100",0
+9034,"The Reluctant Dragon",1941,"all",null,"59/100",0
+9035,"Avalon High",2011,"all",null,"59/100",0
+9036,"Saludos Amigos",1942,null,null,"59/100",0
+9037,"The Band Concert",1935,null,null,"59/100",0
+9038,"Leroy & Stitch",2006,"all",null,"58/100",0
+9039,"12 Dates of Christmas",2011,"7+",null,"58/100",0
+9040,"Don't Look Under the Bed",1999,"7+",null,"58/100",0
+9041,"Phineas and Ferb: Star Wars",2014,"all",null,"58/100",0
+9043,"""Good Luck Charlie, It's Christmas!""",2011,"all",null,"58/100",0
+9044,"I'll Be Home for Christmas",1998,"7+",null,"58/100",0
+9046,"Mickey's Trailer",1938,null,null,"58/100",0
+9047,"The Luck of the Irish",2001,"all",null,"58/100",0
+9075,"The Cheetah Girls",2003,"all",null,"57/100",0
+9077,"Twitches Too",2007,"7+",null,"57/100",0
+9078,"Herbie Rides Again",1974,"all",null,"57/100",0
+9080,"Tru Confessions",2002,"all",null,"57/100",0
+9106,"Return from Witch Mountain",1978,"all",null,"56/100",0
+9108,"Smash and Grab",2019,"7+",null,"56/100",0
+9109,"Get a Clue",2002,"all",null,"56/100",0
+9110,"Tall Tale",1995,"7+",null,"56/100",0
+9111,"Red's Dream",1987,"all",null,"56/100",0
+9113,"Frenemies",2012,"all",null,"56/100",0
+9114,"Flowers and Trees",1932,null,null,"56/100",0
+9115,"The Thirteenth Year",1999,"all",null,"56/100",0
+9118,"Stuck in the Suburbs",2004,"all",null,"56/100",0
+9119,"Penguins",2019,"all",null,"56/100",0
+9120,"The Story of Robin Hood and His Merrie Men",1952,"7+",null,"56/100",0
+9121,"Party Central",2014,"7+",null,"55/100",0
+9125,"Phantom of the Megaplex",2000,"all",null,"55/100",0
+9126,"Mom's Got a Date with a Vampire",2000,"7+",null,"55/100",0
+9127,"Now You See It...",2005,"all",null,"55/100",0
+9105,"Winnie the Pooh: Springtime with Roo",2004,"all",null,"56/100",0
+9131,"The Tortoise and the Hare",1935,null,null,"55/100",0
+9103,"Wendy Wu: Homecoming Warrior",2006,"all",null,"56/100",0
+9101,"The Small One",1978,"all",null,"56/100",0
+9081,"Read It and Weep",2006,"all",null,"57/100",0
+9082,"Lonesome Ghosts",1937,null,null,"57/100",0
+9083,"Motocrossed",2001,"all",null,"57/100",0
+9084,"Aliens of the Deep",2005,"all",null,"57/100",0
+9087,"Loop",2020,"7+",null,"57/100",0
+9088,"The Ugly Dachshund",1966,"all",null,"57/100",0
+9089,"Shipwrecked",1990,"7+",null,"57/100",0
+9090,"Jump In!",2007,"all",null,"57/100",0
+9092,"The Even Stevens Movie",2003,"all",null,"56/100",0
+9095,"The Old Mill",1937,"all",null,"56/100",0
+9096,"Minutemen",2008,"all",null,"56/100",0
+9097,"Johnny Tsunami",1999,"all",null,"56/100",0
+9098,"Life with Mikey",1993,"7+",null,"56/100",0
+9099,"Cow Belles",2006,"all",null,"56/100",0
+9100,"First Kid",1996,"7+",null,"56/100",0
+9102,"Operation Dumbo Drop",1995,"7+",null,"56/100",0
+9030,"Tangled: Before Ever After",2017,"all",null,"59/100",0
+9230,"A Ring of Endless Light",2002,"all",null,"51/100",0
+9233,"Jumping Ship",2001,"all",null,"51/100",0
+9383,"The Christmas Star",1986,"all",null,"45/100",0
+9385,"Full-Court Miracle",2003,"all",null,"45/100",0
+9389,"Marvel Rising: Playing with Fire",2019,"7+",null,"45/100",0
+9390,"Playdate with Destiny",2020,"all",null,"45/100",0
+9393,"The Ghosts of Buxley Hall",1980,"all",null,"44/100",0
+9395,"Fuzzbucket",1986,"all",null,"44/100",0
+9382,"A Celebration of the Music from Coco",2020,null,null,"45/100",0
+9396,"Mission to the Sun",2018,"7+",null,"44/100",0
+9399,"Drain the Bermuda Triangle",2014,null,null,"44/100",0
+9400,"Marvel Rising: Operation Shuri",2019,"7+",null,"44/100",0
+9402,"Skyrunners",2009,"all",null,"44/100",0
+9403,"The Plausible Impossible",1956,null,null,"44/100",0
+9404,"Bizarre Dinosaurs",2009,null,null,"44/100",0
+9406,"Trail of the Panda",2009,"all",null,"43/100",0
+9398,"Drain Alcatraz",2017,null,null,"44/100",0
+9381,"Yellowstone Cubs",1963,"all",null,"45/100",0
+9380,"'Twas the Night",2001,"all",null,"45/100",0
+9379,"In the Footsteps of Elephant",2020,"all",null,"45/100",0
+9356,"The Secret of the Magic Gourd",2007,"all",null,"46/100",0
+9358,"Can of Worms",1999,"7+",null,"46/100",0
+9359,"The Lost Tomb of Alexander the Great",2019,"7+",null,"46/100",0
+9361,"Pluto's Purchase",1948,null,null,"46/100",0
+9363,"Decorating Disney: Holiday Magic",2017,"7+",null,"46/100",0
+9364,"The Vanishing Prairie",1954,"all",null,"46/100",0
+9365,"Hounded",2001,"all",null,"46/100",0
+9366,"Perri",1957,"all",null,"45/100",0
+9367,"Sacred Planet",2004,"all",null,"45/100",0
+9368,"The Bears and I",1974,"all",null,"45/100",0
+9370,"Canine Caddy",1941,null,null,"45/100",0
+9371,"Unidentified Flying Oddball",1979,"all",null,"45/100",0
+9372,"Secrets of Life",1956,"all",null,"45/100",0
+9373,"Marvel Rising: Battle of the Bands",2019,null,null,"45/100",0
+9377,"Buffalo Dreams",2005,"all",null,"45/100",0
+9407,"Incredible! The Story of Dr. Pol",2015,"7+",null,"43/100",0
+9410,"Prowlers of the Everglades",1953,null,null,"43/100",0
+9412,"Miracle Landing on the Hudson",2014,null,null,"43/100",0
+9415,"The Sign of Zorro",1958,"all",null,"43/100",0
+9455,"Shark vs. Surfer",2020,null,null,"40/100",0
+9459,"Hacksaw",1971,"7+",null,"40/100",0
+9463,"Justin Morgan Had a Horse",1972,"all",null,"39/100",0
+9465,"Richie Rich's Christmas Wish",1998,"all",null,"39/100",0
+9466,"Secrets of the King Cobra",2010,null,null,"39/100",0
+9467,"Viking Warrior Women",2019,null,null,"39/100",0
+9475,"Sea of Hope: America's Underwater Treasures",2017,null,null,"38/100",0
+9477,"Winged Seduction: Birds of Paradise",2012,null,null,"38/100",0
+9478,"The Boy Who Talked to Badgers",1975,null,null,"38/100",0
+9484,"Penguins: Life on the Edge",2020,null,null,"37/100",0
+9488,"Shark vs. Whale",2020,"7+",null,"35/100",0
+9493,"Man Among Cheetahs",2017,null,null,"35/100",0
+9498,"Earth Live",2017,null,null,"33/100",0
+9503,"Sharkcano",2020,null,null,"16/100",0
+9506,"Great Shark Chow Down",2019,"7+",null,"14/100",0
+9447,"Water Birds",1952,null,null,"41/100",0
+9354,"Recess: All Growed Down",2003,"all",null,"46/100",0
+9445,"Paris to Pittsburgh",2018,null,null,"41/100",0
+9443,"Blue Ribbon Kids",2016,"7+",null,"41/100",0
+9416,"Casebusters",1986,"all",null,"43/100",0
+9417,"The New Yoda Chronicles: Clash of the Skywalkers",2014,null,null,"43/100",0
+9420,"Ready to Run",2000,"all",null,"42/100",0
+9422,"The Poof Point",2001,"7+",null,"42/100",0
+9424,"How Dogs Got Their Shapes",2016,null,null,"42/100",0
+9426,"Diving with Dolphins",2020,null,null,"42/100",0
+9429,"A Tale of Two Critters",1977,"all",null,"42/100",0
+9430,"The Olympic Elk",1952,null,null,"42/100",0
+9431,"You Lucky Dog",1998,"all",null,"42/100",0
+9433,"Kingdom of the Blue Whale",2009,"7+",null,"42/100",0
+9436,"Drain the Great Lakes",2011,"all",null,"41/100",0
+9438,"Whispers: An Elephant's Tale",2000,"all",null,"41/100",0
+9439,"Sharks of Lost Island",2013,null,null,"41/100",0
+9440,"Nature's Half Acre",1951,null,null,"41/100",0
+9441,"The Jungle Book: Mowgli's Story",1998,"all",null,"41/100",0
+9444,"Stonehenge: Decoded",2008,null,null,"41/100",0
+9231,"Belle's Magical World",1998,"all",null,"51/100",0
+9352,"Miracle at Midnight",1998,null,null,"46/100",0
+9349,"Drain the Titanic",2016,null,null,"46/100",0
+9261,"Almost Angels",1962,null,null,"49/100",0
+9262,"Babes in the Woods",1932,null,null,"49/100",0
+9265,"The Castaway Cowboy",1974,"all",null,"49/100",0
+9266,"Hawaiian Holiday",1937,null,null,"49/100",0
+9267,"Lend a Paw",1941,null,null,"49/100",0
+9268,"Corn Chips",1951,null,null,"49/100",0
+9260,"Beach Picnic",1939,null,null,"49/100",0
+9269,"The African Lion",1955,"all",null,"49/100",0
+9272,"Gender Revolution: A Journey with Katie Couric",2017,"7+",null,"49/100",0
+9274,"Winter Storage",1949,null,null,"49/100",0
+9275,"The Olympic Champ",1942,null,null,"49/100",0
+9277,"High School Musical: The Musical: The Series: The Special",2019,"all",null,"49/100",0
+9280,"Trailer Horn",1950,null,null,"49/100",0
+9281,"How to Swim",1942,null,null,"49/100",0
+9271,"Zenon: Z3",2004,"all",null,"49/100",0
+9259,"Expedition Amelia",2019,null,null,"49/100",0
+9257,"Mr. Mouse Takes a Trip",1940,null,null,"50/100",0
+9256,"Out of Scale",1951,null,null,"50/100",0
+9234,"The Grasshopper and the Ants",1934,null,null,"51/100",0
+9235,"Magician Mickey",1937,null,null,"51/100",0
+9236,"Iron Man & Hulk: Heroes United",2013,"7+",null,"51/100",0
+9239,"Dadnapped",2009,"all",null,"51/100",0
+9241,"Rip Girls",2000,"all",null,"51/100",0
+9243,"Atlantis Rising",2017,null,null,"50/100",0
+9244,"George of the Jungle 2",2003,"7+",null,"50/100",0
+9246,"Horse Sense",1999,"all",null,"50/100",0
+9247,"Super Buddies",2013,"all",null,"50/100",0
+9249,"Cheetah",1989,"all",null,"50/100",0
+9250,"Tugboat Mickey",1940,null,null,"50/100",0
+9251,"The Goddess of Spring",1934,null,null,"50/100",0
+9252,"Den Brother",2010,null,null,"50/100",0
+9253,"Into the Okavango",2018,"7+",null,"50/100",0
+9255,"Toby Tortoise Returns",1936,null,null,"50/100",0
+9282,"Kazaam",1996,"7+",null,"49/100",0
+9283,"Double Dribble",1946,null,null,"49/100",0
+9284,"How to Play Football",1944,null,null,"49/100",0
+9297,"Breaking2",2017,"7+",null,"48/100",0
+9326,"Donald's Tire Trouble",1943,null,null,"47/100",0
+9327,"Stepsister from Planet Weird",2000,"all",null,"47/100",0
+9328,"The New Neighbor",1953,null,null,"47/100",0
+9329,"Under the Sea: A Descendants Story",2018,null,null,"47/100",0
+9330,"Super Rhino",2009,"all",null,"47/100",0
+9332,"The Adventures of Bullwhip Griffin",1967,null,null,"47/100",0
+9334,"Society Dog Show",1939,null,null,"47/100",0
+9335,"Marvel Rising: Heart of Iron",2019,null,null,"47/100",0
+9336,"Bearly Asleep",1955,null,null,"47/100",0
+9338,"Emil and the Detectives",1964,"7+",null,"47/100",0
+9341,"Life Is Ruff",2005,"7+",null,"47/100",0
+9345,"Treasure of Matecumbe",1976,"all",null,"46/100",0
+9346,"Let's Stick Together",1952,null,null,"46/100",0
+9347,"The Biscuit Eater",1972,"all",null,"46/100",0
+9348,"Pluto's Party",1952,null,null,"46/100",0
+9324,"Inspector Gadget 2",2003,"all",null,"47/100",0
+9351,"Beezy Bear",1955,null,null,"46/100",0
+9323,"You Wish!",2003,"all",null,"47/100",0
+9321,"Marvel Rising: Chasing Ghosts",2019,null,null,"47/100",0
+9298,"The Pied Piper",1933,null,null,"48/100",0
+9299,"Meet the Deedles",1998,"7+",null,"48/100",0
+9300,"Mickey's Birthday Party",1942,null,null,"48/100",0
+9301,"The Ultimate Christmas Present",2000,"all",null,"48/100",0
+9302,"Dolphin Reef",2018,"all",null,"48/100",0
+9303,"Dragon Around",1954,null,null,"48/100",0
+9305,"Mickey's Rival",1936,null,null,"48/100",0
+9308,"Moon Mater",2010,"all",null,"48/100",0
+9309,"Donald's Golf Game",1938,null,null,"48/100",0
+9310,"Those Calloways",1965,"7+",null,"48/100",0
+9312,"Don's Fountain of Youth",1953,null,null,"48/100",0
+9313,"Donald's Dog Laundry",1940,null,null,"48/100",0
+9314,"Sea Scouts",1939,"all",null,"48/100",0
+9315,"Jungle Cat",1959,"7+",null,"48/100",0
+9316,"Santa Paws 2: The Santa Pups",2012,"all",null,"48/100",0
+9322,"The Golden Touch",1935,null,null,"47/100",0
+9029,"Let It Shine",2012,"all",null,"59/100",0
+9027,"Atlantis: Milo's Return",2003,"all",null,"59/100",0
+8727,"Peter Pan",1953,"all",null,"76/100",0
+8728,"Cars 3",2017,"all",null,"76/100",0
+8729,"Fantasia",1940,"all",null,"76/100",0
+8732,"Treasure Planet",2002,"7+",null,"75/100",0
+8734,"Pooh's Heffalump Movie",2005,"all",null,"75/100",0
+8735,"John Carter",2012,"13+",null,"75/100",0
+8726,"The Straight Story",1999,"all",null,"76/100",0
+8736,"Willow",1988,"7+",null,"75/100",0
+8738,"Sleeping Beauty",1959,"all",null,"75/100",0
+8740,"Pocahontas",1995,"all",null,"75/100",0
+8741,"The Good Dinosaur",2015,"7+",null,"75/100",0
+8742,"The Aristocats",1970,"all",null,"75/100",0
+8743,"National Treasure: Book of Secrets",2007,"7+",null,"75/100",0
+8744,"Hocus Pocus",1993,"7+",null,"75/100",0
+8737,"Dumbo",1941,"all",null,"75/100",0
+8725,"Togo",2019,"7+",null,"76/100",0
+8724,"Bambi",1942,"all",null,"76/100",0
+8723,"Lady and the Tramp",1955,"all",null,"76/100",0
+8699,"The Emperor's New Groove",2000,"all",null,"78/100",0
+8701,"Star Wars: Episode II - Attack of the Clones",2002,"7+",null,"78/100",0
+8702,"The Simpsons Movie",2007,"13+",null,"78/100",0
+8703,"Frozen II",2019,"7+",null,"78/100",0
+8704,"""The Chronicles of Narnia: The Lion, the Witch and the Wardrobe""",2005,"7+",null,"78/100",0
+8706,"Snow White and the Seven Dwarfs",1937,"all",null,"78/100",0
+8708,"Sanjay's Super Team",2015,"7+",null,"78/100",0
+8711,"The Color of Friendship",2000,"7+",null,"77/100",0
+8712,"Free Solo",2018,"13+",null,"77/100",0
+8713,"The Princess and the Frog",2009,"all",null,"77/100",0
+8714,"Alice in Wonderland",1951,"all",null,"77/100",0
+8716,"Saving Mr. Banks",2013,"13+",null,"77/100",0
+8719,"Bolt",2008,"7+",null,"76/100",0
+8720,"That Darn Cat!",1965,"all",null,"76/100",0
+8722,"One Hundred and One Dalmatians",1961,"all",null,"76/100",0
+8745,"Cool Runnings",1993,"7+",null,"75/100",0
+8746,"Christopher Robin",2018,"7+",null,"75/100",0
+8747,"Stargirl",2020,"7+",null,"74/100",0
+8749,"Atlantis: The Lost Empire",2001,"7+",null,"74/100",0
+8776,"The Santa Clause",1994,"7+",null,"72/100",0
+8779,"Frankenweenie",2012,"7+",null,"72/100",0
+8781,"Geri's Game",1997,"all",null,"72/100",0
+8783,"Piglet's Big Movie",2003,"all",null,"72/100",0
+8784,"Pete's Dragon",2016,"7+",null,"72/100",0
+8785,"Freaky Friday",2003,"7+",null,"71/100",0
+8787,"Sister Act",1992,"7+",null,"71/100",0
+8790,"A Goofy Movie",1995,"all",null,"71/100",0
+8792,"Lifted",2006,"all",null,"71/100",0
+8793,"Big Business",1988,"7+",null,"71/100",0
+8794,"Roving Mars",2006,"7+",null,"71/100",0
+8797,"The Muppet Movie",1979,"all",null,"71/100",0
+8799,"The Rescuers",1977,"all",null,"70/100",0
+8800,"Partly Cloudy",2009,"all",null,"70/100",0
+8801,"Iron Will",1994,"7+",null,"70/100",0
+8775,"""Honey, I Shrunk the Kids""",1989,"7+",null,"72/100",0
+8698,"Lilo & Stitch",2002,"7+",null,"79/100",0
+8774,"The Finest Hours",2016,"13+",null,"72/100",0
+8771,"Presto",2008,"all",null,"72/100",0
+8751,"The Parent Trap",1998,"7+",null,"74/100",0
+8752,"Before the Flood",2016,"7+",null,"74/100",0
+8753,"Piper",2016,"all",null,"74/100",0
+8754,"The Fox and the Hound",1981,"all",null,"74/100",0
+8755,"Cars 2",2011,"all",null,"74/100",0
+8757,"The Sword in the Stone",1963,"all",null,"74/100",0
+8758,"The Chronicles of Narnia: Prince Caspian",2008,"7+",null,"74/100",0
+8760,"Frank and Ollie",1995,"7+",null,"73/100",0
+8761,"Holes",2003,"7+",null,"73/100",0
+8762,"Meet the Robinsons",2007,"all",null,"73/100",0
+8763,"The Princess Diaries",2001,"all",null,"73/100",0
+8767,"Brother Bear",2003,"all",null,"73/100",0
+8768,"Mary Poppins Returns",2018,"7+",null,"73/100",0
+8769,"Timmy Failure: Mistakes Were Made",2020,"7+",null,"73/100",0
+8770,"The Muppet Christmas Carol",1992,"all",null,"72/100",0
+8773,"Miracle",2004,"7+",null,"72/100",0
+8802,"Eight Below",2006,"7+",null,"70/100",0
+8695,"Remember the Titans",2000,"7+",null,"79/100",0
+8693,"A Bug's Life",1998,"all",null,"79/100",0
+8625,"The Avengers",2012,"13+",null,"88/100",0
+8626,"The Many Adventures of Winnie the Pooh",1977,"all",null,"88/100",0
+8627,"Toy Story",1995,"all",null,"88/100",0
+8628,"Up",2009,"7+",null,"88/100",0
+8630,"Finding Nemo",2003,"all",null,"87/100",0
+8631,"""Monsters, Inc.""",2001,"all",null,"87/100",0
+8624,"WALL·E",2008,"all",null,"88/100",0
+8632,"Coco",2017,"7+",null,"87/100",0
+8634,"Toy Story 3",2010,"all",null,"86/100",0
+8635,"Thor: Ragnarok",2017,"13+",null,"86/100",0
+8636,"Pirates of the Caribbean: The Curse of the Black Pearl",2003,"13+",null,"86/100",0
+8637,"Captain America: Civil War",2016,"13+",null,"86/100",0
+8639,"The Incredibles",2004,"7+",null,"86/100",0
+8640,"Captain America: The Winter Soldier",2014,"13+",null,"86/100",0
+8633,"Avatar",2009,"13+",null,"86/100",0
+8623,"The Lion King",1994,"all",null,"89/100",0
+8622,"Guardians of the Galaxy",2014,"13+",null,"89/100",0
+8618,"Avengers: Infinity War",2018,"13+",null,"90/100",0
+8616,"Mary Poppins",1964,"all",null,"96/100",0
+8617,"Avengers: Endgame",2019,"13+",null,"90/100",0
+8641,"Rogue One: A Star Wars Story",2016,"13+",null,"85/100",0
+8642,"Guardians of the Galaxy Vol. 2",2017,"13+",null,"85/100",0
+8643,"Zootopia",2016,"7+",null,"85/100",0
+8644,"Ratatouille",2007,"all",null,"85/100",0
+8671,"Toy Story 4",2019,"all",null,"82/100",0
+8673,"Tinker Bell and the Lost Treasure",2009,"all",null,"81/100",0
+8675,"Captain Marvel",2019,"13+",null,"81/100",0
+8676,"Thor: The Dark World",2013,"13+",null,"81/100",0
+8678,"Ant-Man and the Wasp",2018,"13+",null,"81/100",0
+8680,"Finding Dory",2016,"7+",null,"81/100",0
+8681,"Mulan",1998,"all",null,"81/100",0
+8682,"Pirates of the Caribbean: At World's End",2007,"13+",null,"81/100",0
+8683,"Cars",2006,"all",null,"81/100",0
+8685,"Monsters University",2013,"all",null,"80/100",0
+8686,"Brave",2012,"7+",null,"80/100",0
+8687,"Onward",2020,"7+",null,"80/100",0
+8688,"The Sound of Music",1965,"all",null,"80/100",0
+8690,"Who Framed Roger Rabbit",1988,"7+",null,"80/100",0
+8692,"Solo: A Star Wars Story",2018,"13+",null,"79/100",0
+8670,"Pirates of the Caribbean: Dead Man's Chest",2006,"13+",null,"82/100",0
+8694,"Star Wars: Episode I - The Phantom Menace",1999,"7+",null,"79/100",0
+8668,"Iron Man 2",2010,"13+",null,"82/100",0
+8665,"Captain America: The First Avenger",2011,"13+",null,"82/100",0
+8645,"Doctor Strange",2016,"13+",null,"85/100",0
+8647,"Black Panther",2018,"13+",null,"84/100",0
+8648,"Avengers: Age of Ultron",2015,"13+",null,"84/100",0
+8649,"The Princess Bride",1987,"7+",null,"84/100",0
+8650,"Big Hero 6",2014,"7+",null,"84/100",0
+8651,"Toy Story 2",1999,"all",null,"84/100",0
+8652,"Aladdin",1992,"all",null,"84/100",0
+8653,"Ant-Man",2015,"13+",null,"84/100",0
+8654,"Moana",2016,"7+",null,"83/100",0
+8656,"Frozen",2013,"7+",null,"83/100",0
+8814,"The Last Song",2010,"7+",null,"69/100",0
+8657,"Star Wars: Episode III - Revenge of the Sith",2005,"13+",null,"83/100",0
+8658,"Wreck-It Ralph",2012,"7+",null,"83/100",0
+8660,"Tangled",2010,"7+",null,"83/100",0
+8661,"Iron Man 3",2013,"13+",null,"83/100",0
+8662,"The Nightmare Before Christmas",1993,"7+",null,"83/100",0
+8666,"Thor",2011,"13+",null,"82/100",0
+9028,"Pocahontas II: Journey to a New World",1998,"all",null,"59/100",0
+8803,"Homeward Bound: The Incredible Journey",1993,"all",null,"70/100",0
+8805,"Adventures in Babysitting",1987,"13+",null,"70/100",0
+8952,"Teen Beach Movie",2013,"7+",null,"62/100",0
+8954,"Halloweentown II: Kalabar's Revenge",2001,"all",null,"62/100",0
+8955,"G-Force",2009,"7+",null,"62/100",0
+8956,"""Mickey, Donald, Goofy: The Three Musketeers""",2004,"all",null,"62/100",0
+8957,"Annie",1999,"all",null,"62/100",0
+8958,"Mighty Joe Young",1998,"7+",null,"62/100",0
+8951,"An Extremely Goofy Movie",2000,"all",null,"62/100",0
+8959,"A Wrinkle in Time",2018,"7+",null,"62/100",0
+8962,"Homeward Bound II: Lost in San Francisco",1996,"all",null,"62/100",0
+8963,"Home on the Range",2004,"7+",null,"62/100",0
+8965,"Beauty and the Beast: The Enchanted Christmas",1997,"all",null,"62/100",0
+8966,"Fun and Fancy Free",1947,"all",null,"62/100",0
+8967,"Olaf's Frozen Adventure",2017,"all",null,"62/100",0
+8968,"Geek Charming",2011,"7+",null,"62/100",0
+8961,"Three Little Pigs",1933,null,null,"62/100",0
+8949,"Brother Bear 2",2006,"all",null,"62/100",0
+8948,"Camp Rock",2008,"all",null,"62/100",0
+8945,"Home Alone 3",1997,"7+",null,"62/100",0
+8919,"Jane",2017,"7+",null,"64/100",0
+8920,"Boundin'",2003,"all",null,"64/100",0
+8923,"The Three Caballeros",1944,"all",null,"64/100",0
+8924,"Mars Needs Moms",2011,"7+",null,"63/100",0
+8926,"The Tigger Movie",2000,"all",null,"63/100",0
+8927,"Princess Protection Program",2009,"all",null,"63/100",0
+8928,"Pollyanna",1960,"all",null,"63/100",0
+8929,"The Little Mermaid: Ariel's Beginning",2008,"7+",null,"63/100",0
+8931,"The Black Hole",1979,"7+",null,"63/100",0
+8932,"Bears",2014,"all",null,"63/100",0
+8934,"The Wizards Return: Alex vs. Alex",2013,"7+",null,"63/100",0
+8939,"Wizards of Waverly Place: The Movie",2009,"7+",null,"63/100",0
+8940,"Recess: School's Out",2001,"all",null,"63/100",0
+8941,"Kronk's New Groove",2005,"all",null,"63/100",0
+8944,"The Love Bug",1968,"all",null,"63/100",0
+8969,"Darby O'Gill and the Little People",1959,"all",null,"61/100",0
+8971,"The Santa Clause 3: The Escape Clause",2006,"all",null,"61/100",0
+8972,"Because of Winn-Dixie",2005,"7+",null,"61/100",0
+8974,"Halloweentown High",2004,"all",null,"61/100",0
+9006,"Cloud 9",2014,"all",null,"60/100",0
+9007,"102 Dalmatians",2000,"all",null,"60/100",0
+9008,"Twitches",2005,"7+",null,"60/100",0
+9009,"Kim Possible: So the Drama",2005,"all",null,"60/100",0
+9010,"Jungle 2 Jungle",1997,"7+",null,"60/100",0
+9013,"Waking Sleeping Beauty",2009,"7+",null,"60/100",0
+9016,"Teen Beach 2",2015,"all",null,"59/100",0
+9018,"Z-O-M-B-I-E-S",2018,"all",null,"59/100",0
+9020,"Blank Check",1994,"7+",null,"59/100",0
+9021,"Pooh's Grand Adventure: The Search for Christopher Robin",1997,"all",null,"59/100",0
+9022,"Auntie Edna",2018,null,null,"59/100",0
+9023,"Blackbeard's Ghost",1968,"all",null,"59/100",0
+9024,"Your Friend the Rat",2007,"all",null,"59/100",0
+9025,"Zenon: Girl of the 21st Century",1999,"all",null,"59/100",0
+9026,"Tin Toy",1988,"all",null,"59/100",0
+9005,"Valiant",2005,"all",null,"60/100",0
+8917,"Ice Princess",2005,"all",null,"64/100",0
+9004,"Born in China",2016,"all",null,"60/100",0
+9001,"Stitch! The Movie",2003,"all",null,"60/100",0
+8975,"The Journey of Natty Gann",1985,"7+",null,"61/100",0
+8976,"Treasure Island",1950,"7+",null,"61/100",0
+8977,"Dug's Special Mission",2009,"all",null,"61/100",0
+8978,"African Cats",2011,"all",null,"61/100",0
+8980,"Escape to Witch Mountain",1975,"all",null,"61/100",0
+8981,"Marvel Studios: Assembling a Universe",2014,"7+",null,"61/100",0
+8982,"Monkey Kingdom",2015,"all",null,"61/100",0
+8984,"Hannah Montana: The Movie",2009,"all",null,"61/100",0
+8987,"Mickey's Twice Upon a Christmas",2004,"all",null,"61/100",0
+8992,"""Honey, I Blew Up the Kid""",1992,"7+",null,"61/100",0
+8993,"Mater and the Ghostlight",2006,"all",null,"61/100",0
+8995,"The Wild",2006,"all",null,"61/100",0
+8996,"Camp Nowhere",1994,"7+",null,"61/100",0
+8999,"Float",2019,"7+",null,"60/100",0
+9000,"Cadet Kelly",2002,"all",null,"60/100",0
+9003,"Camp Rock 2: The Final Jam",2010,"7+",null,"60/100",0
+8804,"James and the Giant Peach",1996,"7+",null,"70/100",0
+8916,"The Haunted Mansion",2003,"7+",null,"64/100",0
+8912,"Tuck Everlasting",2002,"7+",null,"64/100",0
+8832,"Descendants",2015,"all",null,"68/100",0
+8833,"Winnie the Pooh",2011,"all",null,"68/100",0
+8834,"The Greatest Game Ever Played",2005,"7+",null,"68/100",0
+8836,"Bedknobs and Broomsticks",1971,"all",null,"68/100",0
+8837,"Queen of Katwe",2016,"7+",null,"68/100",0
+8838,"The Game Plan",2007,"7+",null,"68/100",0
+8831,"High School Musical",2006,"all",null,"68/100",0
+8839,"Glory Road",2006,"7+",null,"68/100",0
+8845,"The Odd Life of Timothy Green",2012,"7+",null,"67/100",0
+8846,"Jack-Jack Attack",2005,"all",null,"67/100",0
+8847,"The Three Musketeers",1993,"7+",null,"67/100",0
+8848,"Aladdin and the King of Thieves",1996,"all",null,"67/100",0
+8849,"Descendants 3",2019,"all",null,"67/100",0
+8850,"Secret of the Wings",2012,"all",null,"67/100",0
+8841,"The Cat from Outer Space",1978,"all",null,"68/100",0
+8829,"The Princess Diaries 2: Royal Engagement",2004,"all",null,"68/100",0
+8828,"Chicken Little",2005,"all",null,"68/100",0
+8827,"The Rescuers Down Under",1990,"all",null,"69/100",0
+8806,"The Great Mouse Detective",1986,"all",null,"70/100",0
+8807,"Day & Night",2010,"all",null,"70/100",0
+8808,"Flight of the Navigator",1986,"7+",null,"70/100",0
+8812,"Mickey's Christmas Carol",1983,"all",null,"70/100",0
+8813,"Bedtime Stories",2008,"7+",null,"69/100",0
+8817,"Secretariat",2010,"7+",null,"69/100",0
+8818,"Fantasia 2000",1999,"all",null,"69/100",0
+8819,"Oliver & Company",1988,"all",null,"69/100",0
+8820,"Melody Time",1948,null,null,"69/100",0
+8822,"Bao",2018,"all",null,"69/100",0
+8823,"Splash",1984,"7+",null,"69/100",0
+8824,"""20,000 Leagues Under the Sea""",1954,"all",null,"69/100",0
+8825,"Dinosaur",2000,"7+",null,"69/100",0
+8826,"Cheaper by the Dozen",2003,"7+",null,"69/100",0
+8854,"Muppet Treasure Island",1996,"all",null,"67/100",0
+8856,"Tinker Bell",2008,"all",null,"67/100",0
+8857,"Return to Oz",1985,"7+",null,"66/100",0
+8858,"The Santa Clause 2",2002,"all",null,"66/100",0
+8887,"Lou",2017,"all",null,"65/100",0
+8888,"Mike's New Car",2002,"all",null,"65/100",0
+8891,"Mulan II",2004,"all",null,"65/100",0
+8892,"High School Musical 2",2007,"all",null,"65/100",0
+8894,"Mickey's Once Upon a Christmas",1999,"all",null,"65/100",0
+8895,"Old Yeller",1957,"all",null,"65/100",0
+8896,"Recess: Taking the Fifth Grade",2003,"all",null,"65/100",0
+8897,"Lilo & Stitch 2: Stitch Has a Glitch",2005,"7+",null,"65/100",0
+8898,"The Nutcracker and the Four Realms",2018,"7+",null,"65/100",0
+8904,"Journey to the Center of the Earth",1959,"all",null,"64/100",0
+8905,"Marvel Rising: Secret Warriors",2018,null,null,"64/100",0
+8907,"One Magic Christmas",1985,"all",null,"64/100",0
+8908,"Tinker Bell and the Great Fairy Rescue",2010,"all",null,"64/100",0
+8909,"Kitbull",2019,"7+",null,"64/100",0
+8910,"Steamboat Willie",1928,"all",null,"64/100",0
+8884,"The Great Muppet Caper",1981,"all",null,"65/100",0
+8913,"Red Tails",2012,"13+",null,"64/100",0
+8883,"Destino",2003,"7+",null,"65/100",0
+8881,"The Adventures of Ichabod and Mr. Toad",1949,"7+",null,"65/100",0
+8859,"The Black Cauldron",1985,"7+",null,"66/100",0
+8860,"Tinker Bell and the Legend of the NeverBeast",2014,"all",null,"66/100",0
+8862,"Around the World in 80 Days",2004,"7+",null,"66/100",0
+8863,"Herbie Goes to Monte Carlo",1977,"all",null,"66/100",0
+8865,"Lemonade Mouth",2011,"all",null,"66/100",0
+8867,"One Man Band",2005,"all",null,"66/100",0
+8868,"Flubber",1997,"7+",null,"66/100",0
+8869,"Newsies",1992,"7+",null,"66/100",0
+8871,"Halloweentown",1998,"all",null,"66/100",0
+8872,"Sister Act 2: Back in the Habit",1993,"7+",null,"66/100",0
+8873,"Jack",1996,"13+",null,"66/100",0
+8874,"Race to Witch Mountain",2009,"7+",null,"66/100",0
+8875,"Diary of a Wimpy Kid: Rodrick Rules",2011,"7+",null,"66/100",0
+8879,"George of the Jungle",1997,"7+",null,"66/100",0
+8880,"Descendants 2",2017,"all",null,"66/100",0
+8882,"Heavyweights",1995,"7+",null,"65/100",0
+5763,"Tarzan",2013,"all",null,"56/100",0
+5418,"Babes in Toyland",1934,null,null,"60/100",0
+5485,"Cinderella",1965,"all",null,"59/100",0
+5677,"Gulliver's Travels",1939,"all",null,"57/100",0
+5614,"Wind",1992,"13+",null,"58/100",0
+5604,"Robin Hood",1922,null,null,"58/100",0
+7251,"Noelle",2007,"7+",null,"44/100",0
+7019,"Inside Out",2005,null,null,"46/100",0
+9509,"What the Shark?",2020,"13+",null,"14/100",0
+9511,"Most Wanted Sharks",2020,null,null,"14/100",0
+713,"Muppets Most Wanted",2014,"7+",null,"67/100",0
+271,"White Fang",2018,"7+",null,"76/100",0
+1814,"The Blue Umbrella",2005,null,null,"54/100",0
+1331,"Zapped",2014,"all",null,"59/100",0
+1222,"Gigantosaurus",2019,"all","7.2/10","48/100",1
+1670,"The Jungle Book",2010,"all","4.2/10","39/100",1
+1586,"Inspector Gadget",2015,"all","4.6/10","40/100",1
+323,"Beauty and the Beast",2012,"7+","7.0/10","69/100",1
+836,"PJ Masks",2015,"all","5.5/10","55/100",1
+3163,"When Sharks Attack",2013,"16+","6.6/10","42/100",1
+3196,"Swiss Family Robinson",1974,"7+","7.0/10","41/100",1
+3030,"Sheriff Callie's Wild West",2013,"all","6.5/10","47/100",1
+3381,"Holiday Magic",2017,null,"7.0/10","30/100",1
+3591,"Invincible",2021,"18+","8.7/10","88/100",1
+3287,"Future-Worm!",2016,"7+","5.2/10","37/100",1
+5426,"TRON: Uprising",2012,"7+","8.2/10","64/100",1
+5425,"The Muppets",2015,"7+","7.4/10","64/100",1
+5423,"Darkwing Duck",1991,"7+","7.6/10","64/100",1
+5422,"The Suite Life of Zack & Cody",2005,"all","6.5/10","64/100",1
+5421,"Gargoyles",1994,"7+","8.1/10","64/100",1
+5420,"Amphibia",2019,"7+","8.1/10","65/100",1
+5417,"The World According to Jeff Goldblum",2019,"7+","7.8/10","65/100",1
+5416,"The Avengers: Earth's Mightiest Heroes",2010,"7+","8.3/10","65/100",1
+5415,"Girl Meets World",2014,"all","7.1/10","65/100",1
+5429,"Recess",1997,"7+","7.8/10","63/100",1
+5411,"Kim Possible",2002,"all","7.2/10","66/100",1
+5406,"Wizards of Waverly Place",2007,"all","6.9/10","68/100",1
+5404,"DuckTales",1987,"7+","8.1/10","69/100",1
+5403,"The Imagineering Story",2019,"7+","9.0/10","69/100",1
+5402,"Spider-Man",1994,"all","8.4/10","70/100",1
+5401,"Bluey",2018,"all","9.6/10","71/100",1
+5400,"Phineas and Ferb",2007,"all","8.0/10","71/100",1
+5397,"Boy Meets World",1993,"all","8.0/10","72/100",1
+5394,"One Strange Rock",2018,"all","8.8/10","74/100",1
+5387,"Star Wars Rebels",2014,"7+","8.0/10","79/100",1
+5408,"Wolverine and the X-Men",2009,"7+","8.0/10","68/100",1
+5385,"The Bad Batch",2021,"7+","8.2/10","82/100",1
+5430,"Chip 'n' Dale Rescue Rangers",1989,"all","7.6/10","63/100",1
+5435,"Cosmos: Possible Worlds",2020,"7+","9.2/10","62/100",1
+5463,"Kickin' It",2011,"all","6.5/10","58/100",1
+5461,"Raven's Home",2017,"all","7.3/10","59/100",1
+5460,"The New Adventures of Winnie the Pooh",1988,"all","7.7/10","59/100",1
+5459,"Austin & Ally",2011,"all","6.0/10","59/100",1
+5458,"So Weird",1999,"7+","8.5/10","59/100",1
+5457,"Lilo & Stitch: The Series",2003,"all","6.8/10","59/100",1
+5456,"Lab Rats",2012,"7+","6.6/10","59/100",1
+5454,"Milo Murphy's Law",2016,"all","7.6/10","59/100",1
+5453,"Liv and Maddie",2013,"all","6.4/10","59/100",1
+5434,"Lizzie McGuire",2001,"all","6.6/10","62/100",1
+5450,"Andi Mack",2017,"all","7.2/10","60/100",1
+5447,"Mickey Mouse Clubhouse",2006,"all","5.7/10","60/100",1
+5445,"TaleSpin",1990,"all","7.6/10","60/100",1
+5444,"Turner & Hooch",2021,"7+","6.0/10","60/100",1
+5443,"That's So Raven",2003,"all","6.6/10","60/100",1
+5442,"Star Wars Resistance",2018,"7+","5.0/10","60/100",1
+5440,"Gordon Ramsay: Uncharted",2019,"16+","7.8/10","61/100",1
+5438,"Jessie",2011,"all","6.0/10","61/100",1
+5437,"Hannah Montana",2006,"all","5.2/10","61/100",1
+5436,"The Suite Life on Deck",2008,"all","6.4/10","62/100",1
+5448,"Even Stevens",2000,"all","7.6/10","60/100",1
+5383,"Once Upon a Time",2011,"7+","7.7/10","83/100",1
+5382,"Star Wars: The Clone Wars",2008,"7+","8.3/10","85/100",1
+5377,"The Mandalorian",2019,"16+","8.8/10","94/100",1
+5464,"Brain Games",2011,"7+","8.3/10","58/100",1
+5467,"The Proud Family",2001,"all","6.4/10","58/100",1
+5468,"Sonny with a Chance",2009,"all","6.1/10","58/100",1
+5469,"Violetta",2012,"all","5.3/10","58/100",1
+5612,"Fancy Nancy",2018,"all","5.5/10","43/100",1
+5610,"Year Million",2017,"16+","7.4/10","43/100",1
+5609,"Disney's Doug",1996,null,"6.6/10","43/100",1
+5607,"Primal Survivor",2016,null,"8.3/10","44/100",1
+5606,"Spider-Woman",1979,"all","5.8/10","44/100",1
+5605,"101 Dalmatian Street",2019,"7+","6.3/10","44/100",1
+5601,"Legend of the Three Caballeros",2018,"all","7.8/10","45/100",1
+5595,"The Book of Pooh",2001,"all","6.5/10","45/100",1
+5593,"Minnie's Bow-Toons",2011,"all","6.2/10","45/100",1
+5613,"America's National Parks",2015,"all","7.7/10","43/100",1
+5591,"The Lodge",2016,null,"6.2/10","46/100",1
+5589,"Great Migrations",2010,"all","8.1/10","46/100",1
+5587,"The Super Hero Squad Show",2009,"7+","6.1/10","46/100",1
+5584,"Dog: Impossible",2019,null,"8.2/10","46/100",1
+5581,"Goldie & Bear",2015,"all","6.4/10","47/100",1
+5579,"Star Wars: Forces of Destiny",2017,"all","5.0/10","47/100",1
+5576,"Lost Cities with Albert Lin",2019,null,"7.8/10","47/100",1
+5575,"Pick of the Litter",2019,"7+","8.1/10","47/100",1
+5571,"Lego Star Wars: The Freemaker Adventures",2016,null,"7.4/10","47/100",1
+5569,"Crash & Bernstein",2012,"all","5.0/10","47/100",1
+5590,"Origins: The Journey of Humankind",2017,null,"6.8/10","46/100",1
+5615,"Lego Frozen Northern Lights",2016,"all","5.7/10","42/100",1
+5618,"Disney's Fairy Tale Weddings",2017,"7+","6.8/10","42/100",1
+5620,"Teacher's Pet",2000,"all","6.3/10","42/100",1
+5695,"101 Dalmatians",1997,null,null,"21/100",1
+5685,"Rocky Mountain Animal Rescue",2018,null,"7.9/10","30/100",1
+5682,"Disney Junior Music Nursery Rhymes",2017,"all","6.0/10","32/100",1
+5681,"Out There with Jack Randall",2019,null,"7.0/10","33/100",1
+5676,"Billy Dilley's Super-Duper Subterranean Summer",2017,"7+","4.4/10","34/100",1
+5675,"Muppet Moments",2015,null,"8.0/10","34/100",1
+5672,"Star Wars Blips",2017,null,"6.1/10","34/100",1
+5671,"Lost Treasures of the Maya",2019,null,null,"35/100",1
+5667,"Bug Juice: My Adventures at Camp",2018,null,"7.3/10","35/100",1
+5665,"""Dr. T, Lone Star Vet""",2019,null,"8.4/10","35/100",1
+5663,"LEGO Star Wars: The Resistance Rises",2016,null,"6.1/10","36/100",1
+5660,"Unlikely Animal Friends",2012,null,"7.6/10","36/100",1
+5652,"Kingdom of the White Wolf",2019,null,"8.1/10","37/100",1
+5650,"Becoming",2020,"16+","6.8/10","38/100",1
+5635,"Marvel Super Hero Adventures",2017,"all","6.3/10","39/100",1
+5630,"Take Two with Phineas and Ferb",2010,"7+","6.5/10","41/100",1
+5628,"Continent 7: Antarctica",2016,"7+","7.4/10","41/100",1
+5626,"Fast Layne",2019,"all","5.6/10","41/100",1
+5624,"The Rocketeer",2019,"all","6.3/10","42/100",1
+5622,"Shop Class",2020,"all","7.2/10","42/100",1
+5621,"Henry Hugglemonster",2013,"all","5.3/10","42/100",1
+5568,"Bonkers",1993,"all","6.8/10","47/100",1
+5563,"Out of the Box",1998,"all","7.5/10","48/100",1
+5556,"Bizaardvark",2016,"all","3.7/10","48/100",1
+5508,"Hostile Planet",2019,"7+","8.3/10","53/100",1
+5507,"The Emperor's New School",2006,"all","6.6/10","53/100",1
+5503,"Jonas",2009,null,"4.7/10","53/100",1
+5501,"Stuck in the Middle",2016,"all","6.1/10","53/100",1
+5498,"Imagination Movers",2008,"all","7.1/10","54/100",1
+5494,"Iron Man: Armored Adventures",2009,"7+","6.5/10","54/100",1
+5490,"Wicked Tuna",2012,"16+","6.6/10","55/100",1
+5488,"Big City Greens",2018,"7+","7.2/10","55/100",1
+5486,"The Little Mermaid",1992,"all","6.8/10","55/100",1
+5509,"Puppy Dog Pals",2017,"all","7.0/10","53/100",1
+5485,"Spider-Man Unlimited",1999,"7+","6.4/10","55/100",1
+5483,"Spider-Man and His Amazing Friends",1981,"7+","7.2/10","56/100",1
+5482,"Diary of a Future President",2020,"7+","6.0/10","56/100",1
+5480,"Mickey Mouse",2013,"all","8.1/10","56/100",1
+5479,"Encore!",2019,"7+","7.7/10","56/100",1
+5477,"Smart Guy",1997,"all","7.4/10","56/100",1
+5474,"Hercules",1998,"all","6.6/10","57/100",1
+5473,"Shake It Up",2010,"all","4.9/10","57/100",1
+5472,"Little Einsteins",2005,"all","6.3/10","57/100",1
+5471,"Phil of the Future",2004,"7+","7.0/10","57/100",1
+5484,"Goof Troop",1992,"all","6.8/10","55/100",1
+5512,"I Didn't Do It",2014,"all","6.0/10","52/100",1
+5514,"The Lion Guard",2016,"all","6.4/10","52/100",1
+5516,"Lab Rats: Elite Force",2016,"7+","6.5/10","52/100",1
+5555,"Secrets of the Zoo",2018,null,"8.4/10","48/100",1
+5554,"My Friends Tigger & Pooh",2007,"all","5.7/10","48/100",1
+5553,"Marvel Rising: Initiation",2018,null,"5.3/10","49/100",1
+5551,"Iron Man",1994,"7+","6.7/10","49/100",1
+5550,"Marvel's Hero Project",2019,"7+","6.1/10","49/100",1
+5543,"Pixar in Real Life",2019,"all","6.6/10","50/100",1
+5542,"One Day at Disney",2019,"all","7.3/10","50/100",1
+5540,"Muppet Babies",2018,"all","6.9/10","50/100",1
+5539,"Descendants: Wicked World",2015,"all","6.6/10","50/100",1
+5538,"Quack Pack",1996,"7+","6.8/10","50/100",1
+5534,"""Dr. Oakley, Yukon Vet""",2014,"all","8.3/10","51/100",1
+5532,"The Replacements",2006,"7+","5.9/10","51/100",1
+5531,"Drain the Oceans",2018,"7+","7.6/10","51/100",1
+5530,"Fish Hooks",2010,"all","4.8/10","51/100",1
+5529,"Jake and the Never Land Pirates",2011,"all","5.6/10","51/100",1
+5528,"Fantastic Four: World's Greatest Heroes",2006,"7+","6.7/10","51/100",1
+5526,"Elena of Avalor",2016,"all","6.4/10","51/100",1
+5524,"Best Friends Whenever",2015,"all","5.7/10","51/100",1
+5522,"Vampirina",2017,"all","6.6/10","52/100",1
+5521,"Sydney to the Max",2019,"all","6.3/10","52/100",1
+5518,"Silver Surfer",1998,"7+","7.1/10","52/100",1
+5558,"The Mickey Mouse Club",1955,"all","7.7/10","48/100",1
+2152,"Genius",2017,"16+","8.3/10","74/100",1
+2170,"The Rookie",2018,"16+","8.0/10","73/100",1
+2118,"Marvel's Runaways",2017,"16+","7.0/10","76/100",1
+2344,"Star vs. the Forces of Evil",2015,"7+","8.0/10","67/100",1
+2323,"10 Things I Hate About You",2009,"16+","7.3/10","67/100",1
+2034,"Cosmos",2014,"all","9.3/10","82/100",1
+1968,"The Simpsons",1989,"7+","8.6/10","91/100",1
+1978,"Gravity Falls",2012,"7+","8.9/10","88/100",1
+2753,"My Favorite Martian",1963,"all","7.3/10","55/100",1
+2817,"Doc McStuffins",2012,"all","6.6/10","53/100",1
+2803,"Wander Over Yonder",2013,"7+","7.2/10","54/100",1
+2856,"Handy Manny",2006,"all","5.6/10","52/100",1
+2846,"Kick Buttowski: Suburban Daredevil",2010,"7+","6.6/10","53/100",1
+2443,"National Treasure",2016,null,"7.4/10","63/100",1
+2482,"K.C. Undercover",2015,"all","6.2/10","62/100",1
+2369,"X-Men: Evolution",2000,"7+","7.8/10","66/100",1
+2367,"The Incredible Hulk",1977,"7+","7.0/10","66/100",1
+2396,"Good Luck Charlie",2010,"all","7.0/10","65/100",1
+2616,"America's Funniest Home Videos",1989,"7+","6.2/10","58/100",1
+2595,"Running Wild with Bear Grylls",2014,"7+","7.7/10","59/100",1
+2564,"Life Below Zero",2013,"7+","8.0/10","60/100",1
+2544,"The Incredible Dr. Pol",2011,"7+","8.6/10","60/100",1

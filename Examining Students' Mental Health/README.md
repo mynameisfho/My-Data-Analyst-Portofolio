@@ -34,4 +34,4 @@ Analyze the `students` data to examine how the length of stay (`stay`) affects t
 - Sort the results by the length of stay in **descending order**.
 
 ### Code:
-[Examining Students' Mental Health](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Grocery%20Store%20Sales%20-%20YesFood/grocery_store_sales_sql_scripts.sql)
+[Examining Students' Mental Health](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Examining%20Students'%20Mental%20Health/students_mental_health.ipynb)

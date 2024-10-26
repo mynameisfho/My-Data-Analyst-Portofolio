@@ -36,4 +36,4 @@ The dataset includes records of customer purchases from the last full year (2022
     - Records : 698
 
 ### Code:
-[Grocery Store Sales : YesFood](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Grocery%20Store%20Sales%20-%20YesFood/grocery_store_sales_sql_scripts.sql)
+[Grocery Store Sales : YesFood](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Grocery%20Store%20Sales%20-%20YesFood/grocery_store_sales.ipynb)

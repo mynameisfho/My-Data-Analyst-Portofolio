@@ -52,4 +52,4 @@ These of data are available: ['critics_avg_rating_by_year.csv'](https://github.c
 - Identify the years where critics and users generally agreed that games were highly rated. Return years where either the average critic score was over 9 or the average user score was over 9. Use pre-calculated averages from the `users_avg_year_rating` and `critics_avg_year_rating` tables. The result should include columns for `year`, `num_games`, `avg_critic_score`, `avg_user_score`, and `diff` between the critic and user scores. Sort the table by year in ascending order and name it `the_best_years`.
 
 ### Code:
-[When Was the Best Era of Video Games?](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/When%20Was%20the%20Best%20Era%20of%20Video%20Games%3F/video_games_sql_scripts.sql)
+[When Was the Best Era of Video Games?](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/When%20Was%20the%20Best%20Era%20of%20Video%20Games%3F/video_games.ipynb)
