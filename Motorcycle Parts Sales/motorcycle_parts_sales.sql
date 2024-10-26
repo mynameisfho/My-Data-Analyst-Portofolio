@@ -1,3 +1,8 @@
+-- Explore the data in the table
+SELECT *
+FROM sales
+
+-- 1
 select 	product_line,
 		case 
 			when extract('month' from date) = 6 then 'June'

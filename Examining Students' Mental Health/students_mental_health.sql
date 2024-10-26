@@ -2,7 +2,7 @@
 SELECT * 
 FROM students;
 
---
+-- 1
 SELECT stay, 
        COUNT(*) AS count_int,
        ROUND(AVG(todep), 2) AS average_phq, 
