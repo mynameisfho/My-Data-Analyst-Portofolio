@@ -7,7 +7,7 @@
 Python and Excel
 
 ### Data:
-The dataset has been provided on [`netflix_data.csv`](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Investigating%20Netflix%20Movies/netflix_data.csv), along with a table outlining the column names and their descriptions. While the data does include some null values and outliers, dealing with these is beyond the scope of this project. 
+The dataset is provided on [`netflix_data.csv`](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Investigating%20Netflix%20Movies/netflix_data.csv), along with a table outlining the column names and their descriptions. While the data does include some null values and outliers, dealing with these is beyond the scope of this project. 
 
 | Column | Description |
 |--------|-------------|

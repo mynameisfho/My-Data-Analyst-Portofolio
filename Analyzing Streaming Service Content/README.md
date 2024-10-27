@@ -8,7 +8,7 @@ This analysis explores content across popular streaming platforms—Amazon, Hulu
 SQL and Excel
 
 ### Data:
-Here is the dataset ['amazon.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/amazon.csv), ['disney.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/disney.csv), ['hulu.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/hulu.csv), ['netflix.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/netflix.csv), and ['genres.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/genres.csv)
+Here are the datasets ['amazon.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/amazon.csv), ['disney.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/disney.csv), ['hulu.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/hulu.csv), ['netflix.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/netflix.csv), and ['genres.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20Streaming%20Service%20Content/genres.csv)
 
 ### Data Outputs:
 - Exploring the data

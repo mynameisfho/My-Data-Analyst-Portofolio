@@ -9,7 +9,7 @@ We've been assisted an investment firm by analyzing trends in rapidly growing co
 SQL and Excel
 
 ### Data:
-Here are the dataset ['companies.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Examining%20Unicorn%20Companies/companies.csv), ['dates.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Examining%20Unicorn%20Companies/dates.csv), ['funding.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Examining%20Unicorn%20Companies/funding.csv), and ['industries.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Examining%20Unicorn%20Companies/industries.csv), which contains the following tables:
+Here are the datasets ['companies.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Examining%20Unicorn%20Companies/companies.csv), ['dates.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Examining%20Unicorn%20Companies/dates.csv), ['funding.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Examining%20Unicorn%20Companies/funding.csv), and ['industries.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Examining%20Unicorn%20Companies/industries.csv), which contains the following tables:
 
 #### dates
 | Column       | Description                                  |
