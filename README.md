@@ -7,3 +7,12 @@ and data storytelling.
 
 In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. You will find documents, workbooks, presentation slides, and dashboards created with SQL, Power BI, Excel, Jupyter Notebook, and PowerPoint. 
 These projects demonstrate my ability to organize, analyze, and present data in a clear and visually appealing way, making it easy for anyone to understand and make informed decisions.
+
+Data Visualization in Python for Absolute Beginners
+Analyzing Ticket Sales Data with Amazon Redshift
+Project: Generating Keywords for Search Campaigns
+Project: Compare Baseball Player Statistics using Visualizations
+Project: Understanding Search Interest With Google Trends
+Project: Cleaning Bank Marketing Campaign Data
+Project: Hypothesis Testing in Healthcare
+Project: Analyze International Debt Statistics
