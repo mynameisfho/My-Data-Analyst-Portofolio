@@ -4,7 +4,7 @@
 This dataset contains **44,066** results of international football matches, starting from the first official match in 1972 up to 2019. The matches include everything from the FIFA World Cup and FIFI Wild Cup to regular friendly matches. It only covers men's full internationals and excludes Olympic Games or matches involving B-teams, U-23 teams, or league select teams.
 
 ### Tools: 
-Python and Excel
+SQL, Python and Excel
 
 ### Data:
 These of data are available: ['results.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/results.csv); ['shootouts.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/shootouts.csv); and ['winners.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/winners.csv).

@@ -45,5 +45,10 @@ Here are the datasets: [`brands.csv`](https://github.com/mynameisfho/My-Data-Ana
 ### Data Outputs: 
 The analysis will explore product data, including pricing, reviews, descriptions, and ratings, alongside revenue and website traffic data, to generate strategic recommendations for the marketing and sales teams.
 
+To complete this project, merge the datasets and remove any null values. Additionally, address the following tasks:
+
+- Calculate the volume of products and average revenue for Adidas and Nike products, based on quartiles of their listing prices. Classify products as `"Budget"` for prices in quartile one, `"Average"` for quartile two, `"Expensive"` for quartile three, and `"Elite"` for quartile four. Save these results in a `pandas` DataFrame named `adidas_vs_nike` with columns: `"brand"`, `"price_label"`, `"num_products"`, and `"mean_revenue"`. Round all numeric values to two decimal places.
+- Investigate whether there’s a relationship between product description word count and average rating. To do this, divide product descriptions into bins of 100 characters, then calculate the average rating and number of reviews for each bin. Store this data in a pandas DataFrame called `description_lengths`, including the columns: `"description_length"`, `"mean_rating"`, and `"num_reviews"`, rounding numeric values to two decimal places.
+
 ### Code:
 [Investigating the Revenue of Online Sports](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Investigating%20the%20Revenue%20of%20Online%20Sports/online_sports.ipynb)
