@@ -29,4 +29,6 @@ Conduct exploratory data analysis on the `netflix_data.csv` dataset to gain insi
 - A movie is classified as short if its duration is less than 90 minutes. Count the number of **short action movies** released in the 1990s and store this count as an integer variable named `short_movie_count`.
 
 ### Code:
-[Investigating Netflix Movies](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Investigating%20Netflix%20Movies/netflix_data.ipynb)
+[Investigating Netflix Movies](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Investigating%20Netflix%20Movies/netflix_data.ipynb) 
+
+[Other Result](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Investigating%20Netflix%20Movies/other_result.ipynb) 
