@@ -33,7 +33,8 @@ The customer data is provided in a CSV file named [`car_insurance.csv`](https://
 | `outcome` | Whether the client made a claim on their car insurance (response variable): <br><ul><li>`0`: No claim</li><li>`1`: Made a claim</li></ul> |
 
 ### Data Outputs: 
-Determine the one feature in the data that best predicts whether a customer will file a claim (indicated by the `outcome` column), excluding the `id` column. Name the result as a DataFrame named `best_feature_df`, which should include two columns: `best_feature` for the name of the top-performing feature and `best_accuracy` for its corresponding accuracy score.
+- Determine the one feature in the data that best predicts whether a customer will file a claim (indicated by the `outcome` column), excluding the `id` column. 
+- Name the result as a DataFrame named `best_feature_df`, which should include two columns: `best_feature` for the name of the top-performing feature and `best_accuracy` for its corresponding accuracy score.
 
 ### Code:
 [Predicting Outcomes of Car Insurance Claims](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Predicting%20Outcomes%20of%20Car%20Insurance%20Claims/car_insurance.ipynb)
