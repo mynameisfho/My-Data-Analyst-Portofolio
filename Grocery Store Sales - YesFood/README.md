@@ -22,7 +22,7 @@ The dataset includes records of customer purchases from the last full year (2022
 | stock_location | Nominal. The location that stock originates. This can be one of four warehouse locations, A, B, C or D </br>Missing values should be replaced with “Unknown”. |
 
 ### Data Outputs:
-- Table 1. During 2022, a bug in the product system caused the `year_added` value to be missing for some products introduced that year. Since the year a product was added could affect its price, having this information is crucial. The table identifies how many products have a missing `year_added` value.
+- Table 1. During 2022, a bug in the product system caused the `year_added` value to be missing for some products introduced that year. Since the year a product was added could affect its price, having this information is crucial. The table identifies how many products have a missing `year_added` value. The output should be a single column, `missing_year`, with a single row giving the number of missing values.
     - Fields : 1
     - Records : 1
 - Table 2. Clean the missing values

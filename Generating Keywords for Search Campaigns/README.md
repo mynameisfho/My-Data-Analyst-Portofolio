@@ -20,7 +20,7 @@ To begin, we will need to create a list of words that, when combined with the pr
 
 The resulting keywords: 'buy sofas', 'sofas buy', 'buy recliners', 'recliners buy', 'prices sofas', 'sofas prices', 'prices recliners', 'recliners prices'.
 
-As a final result, you want to have a DataFrame that looks like this:
+As a final result, we want to have a DataFrame that looks like this:
 
 <table>
 <thead>
@@ -56,7 +56,7 @@ As a final result, you want to have a DataFrame that looks like this:
 ### Tools: 
 Python and Excel
 
-### Data:
+### Data Result:
 Here is the final data: ['keywords.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Generating%20Keywords%20for%20Search%20Campaigns/keywords.csv)  
 
 ### Data Outputs: 

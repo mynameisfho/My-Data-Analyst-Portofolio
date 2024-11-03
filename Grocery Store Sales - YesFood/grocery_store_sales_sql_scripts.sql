@@ -1,4 +1,4 @@
--- Table 1. During 2022, a bug in the product system caused the `year_added` value to be missing for some products introduced that year. Since the year a product was added could affect its price, having this information is crucial. The table identifies how many products have a missing `year_added` value.
+-- Table 1. Table 1. During 2022, a bug in the product system caused the `year_added` value to be missing for some products introduced that year. Since the year a product was added could affect its price, having this information is crucial. The table identifies how many products have a missing `year_added` value. The output should be a single column, `missing_year`, with a single row giving the number of missing values.
 SELECT COUNT(*) AS missing_year
 FROM products
 WHERE year_added IS NULL;
@@ -25,7 +25,7 @@ SELECT
 FROM 
     products;
 
--- Table 3. To analyze price variations, this query identifies the minimum and maximum prices for each product category.
+-- Table 3. To analyze price variations, this query identifies the minimum and maximum prices for each product category. The query returns the `product_type`, `min_price` and `max_price` columns. 
 SELECT 
     product_type, 
     MIN(price) AS min_price, 
@@ -35,7 +35,7 @@ FROM
 GROUP BY 
     product_type;
 
--- Table 4. Additionally, the table focuses on meat and dairy products where the average units sold exceeded ten, allowing for a more detailed analysis.
+-- Table 4. Additionally, the table focuses on meat and dairy products where the average units sold exceeded ten, allowing for a more detailed analysis. The query returns the `product_id`, `price` and `average_units_sold` columns.
 SELECT 
     product_id, 
     price, 

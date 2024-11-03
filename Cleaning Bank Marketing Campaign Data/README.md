@@ -43,3 +43,10 @@ The provided CSV file, named [bank_marketing.csv](https://github.com/mynameisfho
 
 ### Code:
 [Cleaning Bank Marketing Campaign Data](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Cleaning%20Bank%20Marketing%20Campaign%20Data/cleaning_bank.ipynb)
+
+### Data Results:
+[campaign.csv](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Cleaning%20Bank%20Marketing%20Campaign%20Data/campaign.csv)
+
+[client.csv](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Cleaning%20Bank%20Marketing%20Campaign%20Data/client.csv)
+
+[economics.csv](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Cleaning%20Bank%20Marketing%20Campaign%20Data/economics.csv)
