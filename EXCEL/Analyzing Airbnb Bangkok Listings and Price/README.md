@@ -32,5 +32,5 @@ The data is publically available on [Inside Airbnb website](http://insideairbnb.
 ### Data Results:
 - Excel workbook in `.xlsx` format with multiple tabs covering raw data, cleaned data, data dictionary, data handling documentation, pivot tables, and charts. [[Airbnb Bangkok Listings Analysis.xlsx]](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/EXCEL/Analyzing%20Airbnb%20Bangkok%20Listings%20and%20Price/Airbnb%20Bangkok%20Listings%20Analysis.xlsx)
 
-- Presentation slides in `.pdf` format containing problem statement, objectives, data overview, outliers, findings, recommendations, and additional remarks. [[Airbnb Bangkok Listings Analysis.pdf]](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/EXCEL/Analyzing%20Airbnb%20Bangkok%20Listings%20and%20Price/Airbnb%20Bangkok%20Listings%20Analysis.xlsx)
+- Presentation slides in `.pdf` format containing problem statement, objectives, data overview, outliers, findings, recommendations, and additional remarks. [[Airbnb Bangkok Listings Analysis.pdf]](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/EXCEL/Analyzing%20Airbnb%20Bangkok%20Listings%20and%20Price/Analyzing%20Airbnb%20Bangkok%20Listings%20and%20Price.pdf)
 
