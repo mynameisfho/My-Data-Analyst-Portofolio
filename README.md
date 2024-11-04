@@ -8,6 +8,9 @@ This portfolio showcases my technical and analytical skills through a variety of
 
 ## Portfolio Projects
 
+- ### Excel
+  - [Analyzing Airbnb Bangkok Listings and Price](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/EXCEL/Analyzing%20Airbnb%20Bangkok%20Listings%20and%20Price) 
+
 - ### Power BI
   - [Billionaires Net Worth Analysis 2024](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/POWER%20BI/Billionaires%20Net%20Worth%20Analysis%202024) 
   - [Chocolates Sales Report](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/POWER%20BI/Chocolates%20Sales%20Report)
