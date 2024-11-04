@@ -1,7 +1,7 @@
 ![image](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/World%20Cup.jpg)
 
 ### Description:
-This dataset contains **44,066** results of international football matches, starting from the first official match in 1972 up to 2019. The matches include everything from the FIFA World Cup and FIFI Wild Cup to regular friendly matches. It only covers men's full internationals and excludes Olympic Games or matches involving B-teams, U-23 teams, or league select teams.
+This dataset contains **44,066** results of international football matches, starting from the first official match in 1872 up to 2022. The matches include everything from the FIFA World Cup and FIFI Wild Cup to regular friendly matches. It only covers men's full internationals and excludes Olympic Games or matches involving B-teams, U-23 teams, or league select teams.
 
 ### Tools: 
 SQL, Python and Excel
@@ -9,22 +9,32 @@ SQL, Python and Excel
 ### Data:
 These of data are available: ['results.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/results.csv); ['shootouts.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/shootouts.csv); and ['winners.csv'](https://github.com/mynameisfho/My-Data-Analyst-Portofolio/blob/main/Analyzing%20World%20Cup%20Data/winners.csv).
 
-The `results.csv` includes the following columns:
--   `date` - the date of the match
--   `home_team` - the name of the home team
--   `away_team` - the name of the away team
--   `home_score` - the final score for the home team, including extra time but excluding penalty shootouts
--   `away_score` - the final score for the away team, including extra time but excluding penalty shootouts
--   `tournament` - the name of the tournament
--   `city` - the name of the city/town/administrative unit where the match took place
--   `country` - the country where the match was played
--   `neutral` - TRUE/FALSE column indicating whether the match was held at a neutral venue
+`results.csv` includes the following columns:
+- `date` - date of the match
+- `home_team` - the name of the home team
+- `away_team` - the name of the away team
+- `home_score` - full-time home team score including extra time, not including penalty-shootouts
+- `away_score` - full-time away team score including extra time, not including penalty-shootouts
+- `tournament` - the name of the tournament
+- `city` - the name of the city/town/administrative unit where the match was played
+- `country` - the name of the country where the match was played
+- `neutral` - TRUE/FALSE column indicating whether the match was played at a neutral venue
 
 `shootouts.csv` includes the following columns:
--   `date` - the date of the match
--   `home_team` - the name of the home team
--   `away_team` - the name of the away team
--   `winner` - the team that won the penalty shootout
+- `date` - date of the match
+- `home_team` - the name of the home team
+- `away_team` - the name of the away team
+- `winner` - winner of the penalty-shootout
+- `first_shooter` - the team that went first in the shootout
+
+`goalscorers.csv` includes the following columns:
+- `date` - date of the match
+- `home_team` - the name of the home team
+- `away_team` - the name of the away team
+- `team` - name of the team scoring the goal
+- `scorer` - name of the player scoring the goal
+- `own_goal` - whether the goal was an own-goal
+- `penalty` - whether the goal was a penalty
 
 Note on Team and Country Names: For the home and away teams, the *current* name has been used. For example, a match in 1882 featuring a team called Ireland against England is labeled as Northern Ireland in this dataset, as they are the successors of that team. This approach helps to track the history and statistics of teams more easily.
 
